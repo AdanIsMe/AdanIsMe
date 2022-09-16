@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Adan
+- 👀 I’m interested in learning how to create games, websites and bringing theoretical concepts to life
+- 🌱 I’m currently learning Computer Science
